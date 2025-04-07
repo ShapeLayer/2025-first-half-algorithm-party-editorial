@@ -339,8 +339,8 @@ AI-Code-Detector가 AI로 생성되었을 가능성이 낮은 것으로 진단�
       stroke: none,
       table.cell(colspan: 2)[- ChatGPT 4o], table.cell(colspan: 2)[- o1 mini], table.cell(colspan: 2)[- o3 mini],
       table.cell(colspan: 2)[- Claude 3.5 Haiku], table.cell(colspan: 2)[- Claude 3.5 Sonnet], table.cell(colspan: 2)[- Claude 3.7 Sonnet],
+      table.cell(colspan: 2)[- Gemini 1.5 Flash], table.cell(colspan: 2)[- Gemini 1.5 Pro], table.cell(colspan: 2)[- Gemini 2.0 Flash],
       table.cell(colspan: 3)[- Deepseek V3 FW], table.cell(colspan: 3)[- Deepseek R1],
-      table.cell(colspan: 3)[- Gemini 1.5 Pro], table.cell(colspan: 3)[- Gemini 2.0 Flash],
       table.cell(colspan: 3)[- Llama 3 70b Groq], table.cell(colspan: 3)[- Llama 3.3 70b FW],
       table.cell(colspan: 3)[- Mistral Medium], table.cell(colspan: 3)[- Grok 2],
     )
